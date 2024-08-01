@@ -1,2 +1,2 @@
 # my-first-project
-This is a teat file. 
+This is a test file. 

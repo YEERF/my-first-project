@@ -1,2 +1,2 @@
-# About my first project on GitHub.gr
+# About my first project on GitHub
 This is a test file. 
